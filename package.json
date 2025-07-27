@@ -1,0 +1,16 @@
+{
+  "name": "save_reminder",
+  "product": "Save Reminder",
+  "version": "1.0.0",
+  "description": "An app that will remind you to save your work",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "electron ."
+  },
+  "author": "Lachezar Damyanov, Viktor Stoyanov, Simeon Obretenov, Aleksander Yoviev",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^37.2.4"
+  }
+}
